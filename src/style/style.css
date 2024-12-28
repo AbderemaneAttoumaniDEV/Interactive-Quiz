@@ -1,0 +1,74 @@
+/* Définir les polices locales */
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Regular.ttf') format('truetype'),
+        url('../fonts/Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Baloo2';
+    src: url('../fonts/Baloo2-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LexendZetta';
+    src: url('../fonts/LexendZetta-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MuseoModerno-Italic';
+    src: url('../fonts/MuseoModerno-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MuseoModerno';
+    src: url('../fonts/MuseoModerno-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Utilisation des polices */
+
+h1 {
+    font-family: 'Poppins';
+}
+
+p {
+    font-family: 'MuseoModerno-Italic';
+}
+
+.start-btnn{
+    font-family: 'LexendZetta' ;
+}
+
+.category-select-title {
+    font-family: 'Baloo2' ;
+}
+
+.category-select-text {
+    font-family: 'MuseoModerno' ;
+}
+
+.question-text{
+    font-family: 'Baloo2' ;
+}
+
+.answers-text {
+    font-family: 'Poppins' ;
+}
+
+.result-answers{
+    font-family: 'Baloo2' ;
+}
+
+.result-questions{
+    font-family: 'Baloo2' ;
+}

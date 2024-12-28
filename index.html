@@ -1,0 +1,82 @@
+<!DOCTYPE html> 
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Interactif</title>
+
+    <!-- Lien vers la feuille de styles CSS personnalisée -->
+    <link href="src/style/style.css" rel="stylesheet">
+
+    <!-- Script principal pour la logique JavaScript -->
+    <script defer src="src/js/main.js"></script>
+
+    <!-- Intégration de Tailwind CSS via un CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-r from-blue-400 to-teal-500 font-sans text-gray-900">
+
+    <!-- Conteneur principal qui englobe tout le contenu -->
+    <div class="min-h-screen flex flex-col items-center justify-center px-4 py-8 sm:px-6 md:px-8 lg:px-16 xl:px-32">
+        
+        <!-- Section du titre principal du quiz -->
+        <div class="text-center text-white mb-8">
+            <h1 class="text-3xl md:text-5xl font-bold tracking-tight">Quiz Interactif</h1>
+            <p class="text-lg mt-2">Sélectionnez une catégorie pour commencer votre aventure !</p>
+        </div>
+
+        <!-- Section pour la sélection de catégorie -->
+        <div class="w-full max-w-lg bg-white rounded-xl shadow-xl p-8 sm:p-6 md:p-8">
+            <!-- Label et menu déroulant pour choisir une catégorie -->
+            <div class="mb-6">
+                <label for="category-select" class="category-select-title text-lg font-medium text-gray-800">Choisissez un thème :</label>
+                <select id="category-select" class="category-select-text w-full p-3 mt-2 border border-gray-300 rounded-lg bg-gray-50 focus:ring-2 focus:ring-blue-400 focus:outline-none">
+                    <!-- Liste des catégories disponibles -->
+                    <option value="maths">Maths</option>
+                    <option value="geography">Géographie</option>
+                    <option value="history">Histoire</option>
+                    <option value="computer_science">Informatique</option>
+                    <option value="art">Art</option>
+                    <option value="music">Musique</option>
+                    <option value="science">Science</option>
+                    <option value="sport">Sport</option>
+                    <option value="movie_theater">Cinéma</option>
+                    <option value="general_knowledge">Culture générale</option>
+                </select>
+            </div>
+
+            <!-- Bouton pour démarrer le quiz -->
+            <button id="start-btn" class="start-btnn w-full py-3 mt-6 bg-gradient-to-r from-green-500 to-teal-400 text-white font-bold rounded-lg hover:scale-105 transition-transform duration-200">
+                Démarrer le Quiz
+            </button>
+        </div>
+        
+        <!-- Conteneur pour le quiz (initialement masqué avec la classe 'hidden') -->
+        <div id="quiz-container" class="hidden w-full max-w-lg bg-white rounded-xl shadow-xl p-8 sm:p-6 md:p-8 mt-8">
+            <div id="question-container" class="space-y-6">
+                <!-- Zone pour afficher la question actuelle -->
+                <div id="question" class="question-text text-xl md:text-2xl font-semibold text-center">Question</div>
+                
+                <!-- Zone pour afficher les réponses sous forme de boutons -->
+                <div id="answers" class="answers-text space-y-4"></div>
+            </div>
+        </div>
+
+        <!-- Conteneur pour afficher les résultats après avoir terminé le quiz (initialement masqué) -->
+        <div id="result-container" class="hidden w-full max-w-lg bg-white rounded-xl shadow-xl p-8 sm:p-6 md:p-8 mt-8">
+            <!-- Score final du participant -->
+            <div id="final-score" class="text-2xl font-bold mb-4"></div>
+
+            <!-- Liste des résultats détaillés (questions, réponses correctes et incorrectes) -->
+            <ul id="result-list" class="space-y-4"></ul>
+
+            <!-- Bouton pour recommencer le quiz -->
+            <button onclick="location.reload()" class="w-full py-3 mt-6 bg-gradient-to-r from-green-600 to-teal-500 text-white rounded-lg hover:scale-105 transition-transform duration-200">
+                Recommencer
+            </button>
+        </div>
+
+    </div>
+
+</body>
+</html>

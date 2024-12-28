@@ -1,0 +1,766 @@
+{
+    "maths": [
+      {
+        "question": "Quelle est la racine carrée de 9 ?",
+        "answers": ["1", "2", "3", "4"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Combien fait 5 + 3 ?",
+        "answers": ["7", "8", "9", "6"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quel est le produit de 12 et 8 ?",
+        "answers": ["96", "80", "90", "100"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Combien fait 10 – 7 ?",
+        "answers": ["3", "4", "5", "6"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quelle est la valeur de pi (arrondie à 2 décimales) ?",
+        "answers": ["3.14", "3.12", "3.16", "3.10"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Combien font 15% de 200 ?",
+        "answers": ["30", "25", "35", "40"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quel est le résultat de 9 x 9 ?",
+        "answers": ["81", "72", "80", "89"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Combien font 7 x 6 ?",
+        "answers": ["42", "40", "45", "50"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Si x = 3, combien vaut 2x + 5 ?",
+        "answers": ["11", "10", "8", "9"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Combien fait 100 ÷ 4 ?",
+        "answers": ["25", "20", "30", "35"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quelle est la solution de l'équation 2x = 10 ?",
+        "answers": ["5", "10", "3", "4"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Combien font 3^3 ?",
+        "answers": ["27", "18", "25", "30"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quelle est la somme de 35 et 42 ?",
+        "answers": ["77", "75", "80", "85"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Combien fait 50 – 19 ?",
+        "answers": ["31", "29", "32", "35"],
+        "correctAnswer": 0
+      }
+    ],
+    
+    "geography": [
+      {
+        "question": "Quelle est la capitale de l'Italie ?",
+        "answers": ["Madrid", "Rome", "Paris", "Berlin"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quel océan borde la côte ouest des États-Unis ?",
+        "answers": ["Atlantique", "Indien", "Pacifique", "Arctique"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Où se situe la Tour Eiffel ?",
+        "answers": ["Londres", "Paris", "Berlin", "Madrid"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quelle est la plus grande île du monde ?",
+        "answers": ["Groenland", "Bali", "Sumatra", "Madagascar"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quel est le plus long fleuve d'Afrique ?",
+        "answers": ["Nil", "Congo", "Zambèze", "Niger"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Dans quel pays se trouve la ville de Kyoto ?",
+        "answers": ["Chine", "Japon", "Corée du Sud", "Vietnam"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quel est le plus grand désert du monde ?",
+        "answers": ["Sahara", "Atacama", "Gobi", "Arctique"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Quel pays est bordé par la mer Méditerranée et l'Atlantique ?",
+        "answers": ["Espagne", "France", "Italie", "Grèce"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quel est le point le plus bas de la Terre ?",
+        "answers": ["Mer Morte", "Tranchée des Mariannes", "Dépression de Badwater", "Pôle Sud"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quelle est la capitale de l'Australie ?",
+        "answers": ["Sydney", "Canberra", "Melbourne", "Brisbane"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quel pays est surnommé le pays du Soleil Levant ?",
+        "answers": ["Japon", "Chine", "Corée du Sud", "Inde"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quel est le plus grand pays du monde ?",
+        "answers": ["Canada", "Chine", "États-Unis", "Russie"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Quel est le principal archipel du Japon ?",
+        "answers": ["Hawaï", "Canaries", "Chiliennes", "Nippon"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Quel est le plus grand pays d'Afrique ?",
+        "answers": ["Égypte", "Algérie", "Congo", "Nigéria"],
+        "correctAnswer": 1
+      }
+    ],
+  
+    "history": [
+      {
+        "question": "Qui était le premier président des États-Unis ?",
+        "answers": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "En quelle année la première guerre mondiale a-t-elle commencé ?",
+        "answers": ["1912", "1914", "1916", "1918"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Qui était le leader de l'Allemagne nazie ?",
+        "answers": ["Adolf Hitler", "Winston Churchill", "Joseph Staline", "Benito Mussolini"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quand a eu lieu la révolution française ?",
+        "answers": ["1789", "1791", "1795", "1776"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Qui a découvert l'Amérique ?",
+        "answers": ["Fernand Magellan", "Christophe Colomb", "Marco Polo", "Vasco de Gama"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quel est le nom de la guerre entre les États-Unis et le Vietnam ?",
+        "answers": ["Guerre du Pacifique", "Guerre de Sécession", "Guerre du Vietnam", "Guerre Froide"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "En quelle année l'Empire romain a-t-il été fondé ?",
+        "answers": ["753 avant J.-C.", "500 avant J.-C.", "1000 après J.-C.", "476 après J.-C."],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Qui a écrit la Déclaration d'indépendance des États-Unis ?",
+        "answers": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "Benjamin Franklin"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Qui a été le premier empereur de Rome ?",
+        "answers": ["Jules César", "Augustus", "Néron", "Caligula"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quel roi a commandé la construction de la Grande Muraille de Chine ?",
+        "answers": ["Qin Shi Huang", "Kublai Khan", "Jinshi", "Liu Bang"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quel événement a déclenché la Seconde Guerre mondiale ?",
+        "answers": ["L'invasion de la Pologne par l'Allemagne", "L'attaque de Pearl Harbor", "Le bombardement de Hiroshima", "La bataille de Stalingrad"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "En quelle année Napoléon Bonaparte a-t-il été couronné empereur ?",
+        "answers": ["1804", "1812", "1800", "1815"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quel était le nom du navire qui a coulé lors du naufrage du Titanic ?",
+        "answers": ["Lusitania", "Britannia", "Titanic", "Olympic"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quel roi a perdu la bataille de Waterloo en 1815 ?",
+        "answers": ["Napoléon", "Louis XVI", "Charles I", "Guillaume Ier"],
+        "correctAnswer": 0
+      }
+    ],
+  
+    "computer_science": [
+      {
+        "question": "Quel est le langage de programmation utilisé pour le web côté client ?",
+        "answers": ["Python", "Java", "JavaScript", "C++"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quel est le nom du système d'exploitation de la société Apple ?",
+        "answers": ["Windows", "Linux", "Mac OS", "Android"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quel est le principal langage utilisé pour le développement mobile Android ?",
+        "answers": ["Swift", "Java", "C#", "Kotlin"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Qui a fondé Microsoft ?",
+        "answers": ["Mark Zuckerberg", "Elon Musk", "Bill Gates", "Steve Jobs"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quel est le nom du créateur du langage de programmation Python ?",
+        "answers": ["Bjarne Stroustrup", "Guido van Rossum", "James Gosling", "Dennis Ritchie"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Qu'est-ce que HTML signifie ?",
+        "answers": ["HyperText Markup Language", "HyperTransfer Markup Language", "HighText Markup Language", "HyperText Model Language"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Qu'est-ce qu'un algorithme ?",
+        "answers": ["Une méthode pour résoudre un problème", "Un type de base de données", "Un langage de programmation", "Une partie d'un site web"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Que signifie l'acronyme URL ?",
+        "answers": ["Uniform Resource Locator", "Uniform Range Locator", "Ultimate Resource Locator", "Universal Remote Locator"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Quel protocole est utilisé pour la navigation sur le web ?",
+        "answers": ["FTP", "SMTP", "HTTP", "POP3"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Quel est le nom du créateur de Facebook ?",
+        "answers": ["Larry Page", "Sergey Brin", "Mark Zuckerberg", "Jack Dorsey"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Qu'est-ce que le CSS permet de faire ?",
+        "answers": ["Stocker des données", "Gérer la mise en page", "Écrire des scripts", "Dessiner des images"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Quel est le nom du moteur de recherche de Google ?",
+        "answers": ["Bing", "Yahoo", "Google", "DuckDuckGo"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Qu'est-ce que le Cloud Computing ?",
+        "answers": ["Une méthode de calcul dans les nuages", "Une technologie de stockage de données à distance", "Un type de programme de bureau", "Un langage de programmation"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Qu'est-ce que GitHub permet de faire ?",
+        "answers": ["Écrire du code", "Partager du code", "Compiler des programmes", "Apprendre à programmer"],
+        "correctAnswer": 1
+      }
+    ],
+    "art": [
+    {
+      "question": "Qui a peint la Joconde ?",
+      "answers": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Quel mouvement artistique est associé à Salvador Dalí ?",
+      "answers": ["Surréalisme", "Cubisme", "Renaissance", "Impressionnisme"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est le peintre de La Nuit étoilée ?",
+      "answers": ["Paul Cézanne", "Claude Monet", "Vincent van Gogh", "Edvard Munch"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Lequel de ces artistes est célèbre pour ses sculptures modernes ?",
+      "answers": ["Auguste Rodin", "Claude Monet", "Edvard Munch", "Frida Kahlo"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Dans quel musée se trouve la peinture Le Cri ?",
+      "answers": ["Musée d'Orsay", "Musée du Louvre", "Musée national d'art moderne", "Galerie nationale de l'Art"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Qui a sculpté le David en marbre ?",
+      "answers": ["Michel-Ange", "Leonardo da Vinci", "Raphaël", "Caravage"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel artiste est connu pour avoir créé l’œuvre Guernica ?",
+      "answers": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Henri Matisse"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quelle peinture est l’œuvre la plus célèbre de Georges Seurat ?",
+      "answers": ["Le Baiser", "Un dimanche après-midi à l'Île de la Grande Jatte", "Les Nénuphars", "La Liberté guidant le peuple"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel artiste a peint La Naissance de Vénus ?",
+      "answers": ["Sandro Botticelli", "Michel-Ange", "Leonardo da Vinci", "Raphaël"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Lequel de ces artistes n'est pas un peintre ?",
+      "answers": ["Michel-Ange", "Claude Monet", "Pablo Picasso", "Paul Cézanne"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel mouvement artistique est associé à Andy Warhol ?",
+      "answers": ["Surréalisme", "Pop art", "Expressionnisme", "Cubisme"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel peintre est célèbre pour ses œuvres représentant des fleurs et des crânes ?",
+      "answers": ["Georgia O'Keeffe", "Frida Kahlo", "Claude Monet", "Marc Chagall"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Qui a peint Les Demoiselles d'Avignon ?",
+      "answers": ["Pablo Picasso", "Henri Matisse", "Paul Cézanne", "Georges Braque"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel artiste a été un pionnier du cubisme ?",
+      "answers": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Henri Matisse"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est le style principal de l'artiste Jackson Pollock ?",
+      "answers": ["Expressionnisme abstrait", "Renaissance", "Surréalisme", "Impressionnisme"],
+      "correctAnswer": 0
+    }
+  ],
+  
+    "music": [
+    {
+      "question": "Quel compositeur a écrit la Symphonie n°9 en ré mineur ?",
+      "answers": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Frédéric Chopin"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel groupe a chanté la chanson 'Bohemian Rhapsody' ?",
+      "answers": ["The Beatles", "Queen", "The Rolling Stones", "Led Zeppelin"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Qui a composé l’opéra 'Carmen' ?",
+      "answers": ["Giuseppe Verdi", "Georges Bizet", "Wolfgang Amadeus Mozart", "Johannes Brahms"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel est le nom du célèbre compositeur qui a écrit 'La Flûte enchantée' ?",
+      "answers": ["Ludwig van Beethoven", "Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Frédéric Chopin"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Quel chanteur a interprété 'Thriller' en 1982 ?",
+      "answers": ["Prince", "Michael Jackson", "Elvis Presley", "Stevie Wonder"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Qui est le compositeur de la 'Messe en si mineur' ?",
+      "answers": ["Ludwig van Beethoven", "Johann Sebastian Bach", "Frédéric Chopin", "Wolfgang Amadeus Mozart"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel groupe est à l’origine de l'album 'The Dark Side of the Moon' ?",
+      "answers": ["The Rolling Stones", "Led Zeppelin", "Pink Floyd", "Queen"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Quel artiste a popularisé le 'reggae' ?",
+      "answers": ["Bob Marley", "Peter Tosh", "Jimmy Cliff", "Burning Spear"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Qui a écrit la chanson 'Imagine' ?",
+      "answers": ["John Lennon", "Paul McCartney", "Elton John", "George Harrison"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est le nom de l'album de Nirvana sorti en 1991 ?",
+      "answers": ["Nevermind", "In Utero", "Bleach", "MTV Unplugged"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel compositeur est connu pour ses concertos pour piano ?",
+      "answers": ["Ludwig van Beethoven", "Frédéric Chopin", "Wolfgang Amadeus Mozart", "Johannes Brahms"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel est le prénom de la célèbre chanteuse Adele ?",
+      "answers": ["Adele", "Alicia", "Annie", "Alexandra"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quelle chanson de Whitney Houston est un remake de Dolly Parton ?",
+      "answers": ["I Will Always Love You", "Greatest Love of All", "I Wanna Dance with Somebody", "How Will I Know"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est le nom du groupe des 'Beatles' ?",
+      "answers": ["The Rolling Stones", "The Beatles", "The Beach Boys", "The Who"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel compositeur a écrit la symphonie 'Le Vol du bourdon' ?",
+      "answers": ["Nikolai Rimsky-Korsakov", "Claude Debussy", "Igor Stravinsky", "Franz Schubert"],
+      "correctAnswer": 0
+    }
+  ],
+  
+    "science": [
+    {
+      "question": "Quelle est la formule chimique de l'eau ?",
+      "answers": ["H2O", "CO2", "O2", "H2O2"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quelle est la planète la plus proche du soleil ?",
+      "answers": ["Vénus", "Terre", "Mars", "Mercure"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Quelle est la principale fonction des globules rouges ?",
+      "answers": ["Transporter l'oxygène", "Protéger contre les infections", "Transporter les nutriments", "Décomposer les déchets"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Qui a proposé la théorie de la relativité ?",
+      "answers": ["Isaac Newton", "Albert Einstein", "Galilée", "Nikola Tesla"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est 'O' ?",
+      "answers": ["Oxygène", "Ozone", "Or", "Oxyde"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "De quel type de cellule sont composés les tissus nerveux ?",
+      "answers": ["Neuronnes", "Globules rouges", "Muscle", "Épithélium"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est l'organe principal pour la digestion des aliments ?",
+      "answers": ["Estomac", "Cœur", "Cerveau", "Poumons"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Qu'est-ce que la photosynthèse permet aux plantes de faire ?",
+      "answers": ["Produire de l'oxygène", "Produire de l'énergie à partir de la lumière", "Grandir rapidement", "Absorber l'eau"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel est l'organe responsable de la production d'insuline ?",
+      "answers": ["Foie", "Cœur", "Pancréas", "Reins"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "De quelle couleur est l'hémoglobine dans les globules rouges ?",
+      "answers": ["Rouge", "Bleu", "Vert", "Jaune"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est l'atome qui constitue la base de la vie ?",
+      "answers": ["Carbone", "Oxygène", "Azote", "Hydrogène"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quelle est la force qui maintient la Terre en orbite autour du Soleil ?",
+      "answers": ["Gravité", "Magnétisme", "Chaleur", "Pression"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est 'Na' ?",
+      "answers": ["Sodium", "Azote", "Néon", "Nickel"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "answers": ["Cerveau", "Cœur", "Peau", "Foie"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Qu'est-ce qu'un volcan ?",
+      "answers": ["Une montagne en feu", "Une ouverture dans la croûte terrestre", "Un glacier qui se déplace", "Un tremblement de terre"],
+      "correctAnswer": 1
+    }
+  ],
+  
+    "sport": [
+    {
+      "question": "Combien de joueurs y a-t-il dans une équipe de football ?",
+      "answers": ["9", "10", "11", "12"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Qui a remporté la Coupe du Monde de football en 1998 ?",
+      "answers": ["Brésil", "Allemagne", "France", "Argentine"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Quel est le nom du tournoi de tennis joué à Wimbledon ?",
+      "answers": ["Australian Open", "US Open", "French Open", "Wimbledon"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Quel sport se joue avec un ballon ovale ?",
+      "answers": ["Football", "Rugby", "Handball", "Basketball"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Qui est considéré comme l'un des meilleurs joueurs de basket de tous les temps ?",
+      "answers": ["Kobe Bryant", "Michael Jordan", "LeBron James", "Stephen Curry"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de rugby en 2019 ?",
+      "answers": ["Nouvelle-Zélande", "Angleterre", "Afrique du Sud", "France"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Qui a remporté le plus grand nombre de médailles olympiques ?",
+      "answers": ["Michael Phelps", "Usain Bolt", "Simone Biles", "Carl Lewis"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est le sport principal des Jeux Olympiques d'été ?",
+      "answers": ["Basketball", "Football", "Athlétisme", "Natation"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Quelle est la durée d'un match de tennis en Grand Chelem ?",
+      "answers": ["3 sets", "5 sets", "1 heure", "45 minutes"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Dans quel sport le 'slam dunk' est-il utilisé ?",
+      "answers": ["Football", "Basketball", "Handball", "Rugby"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel est le nombre d'équipes en Ligue des champions de football ?",
+      "answers": ["12", "16", "32", "64"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Quel sport se joue avec une raquette et une balle jaune ?",
+      "answers": ["Tennis", "Badminton", "Squash", "Ping-pong"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel sport se joue avec un ballon rond et deux buts ?",
+      "answers": ["Basketball", "Football", "Rugby", "Handball"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Qui a remporté le Tour de France en 2019 ?",
+      "answers": ["Chris Froome", "Egan Bernal", "Romain Bardet", "Vincenzo Nibali"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel pays a organisé la Coupe du Monde de Rugby en 2019 ?",
+      "answers": ["France", "Australie", "Japon", "Angleterre"],
+      "correctAnswer": 2
+    }
+  ],
+  
+    "movie_theater": [
+    {
+      "question": "Qui a réalisé le film Titanic ?",
+      "answers": ["James Cameron", "Steven Spielberg", "Christopher Nolan", "Quentin Tarantino"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2019 ?",
+      "answers": ["Green Book", "Bohemian Rhapsody", "La La Land", "Birdman"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Dans quel film trouve-t-on les personnages de Han Solo et Luke Skywalker ?",
+      "answers": ["Star Wars", "Star Trek", "The Matrix", "Indiana Jones"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Qui a joué le rôle de Jack Dawson dans Titanic ?",
+      "answers": ["Brad Pitt", "Leonardo DiCaprio", "Johnny Depp", "Tom Cruise"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel film d'animation a été réalisé par Pixar en 1995 ?",
+      "answers": ["Toy Story", "Le Monde de Nemo", "Les Indestructibles", "Cars"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Qui a réalisé le film Inception ?",
+      "answers": ["Quentin Tarantino", "Christopher Nolan", "Martin Scorsese", "Steven Spielberg"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Dans quel film Brad Pitt joue-t-il un personnage nommé Tyler Durden ?",
+      "answers": ["Fight Club", "Se7en", "World War Z", "Ocean's Eleven"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel acteur incarne James Bond dans les films récents ?",
+      "answers": ["Pierce Brosnan", "Roger Moore", "Daniel Craig", "Sean Connery"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Qui est le réalisateur de Pulp Fiction ?",
+      "answers": ["Quentin Tarantino", "Martin Scorsese", "Ridley Scott", "Francis Ford Coppola"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Dans quel film le personnage de Forrest Gump apparaît-il ?",
+      "answers": ["Forrest Gump", "Cast Away", "The Terminal", "Catch Me If You Can"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel film de science-fiction a été réalisé par Ridley Scott en 1982 ?",
+      "answers": ["Alien", "Blade Runner", "The Matrix", "Star Wars"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel film met en scène le personnage de Simba ?",
+      "answers": ["Le Roi Lion", "Aladdin", "Cendrillon", "Mulan"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Dans quel film de Tim Burton trouve-t-on le personnage de Edward aux mains d'argent ?",
+      "answers": ["Batman", "Edward aux mains d'argent", "Beetlejuice", "The Nightmare Before Christmas"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel film a remporté l'Oscar du meilleur film en 1994 ?",
+      "answers": ["Forrest Gump", "Shawshank Redemption", "Titanic", "Schindler's List"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Qui incarne l'ogre vert Shrek ?",
+      "answers": ["Mike Myers", "Eddie Murphy", "Robin Williams", "Chris Farley"],
+      "correctAnswer": 0
+    }
+  ],
+
+    "general_knowledge": [
+    {
+      "question": "Quel est le plus grand pays du monde en superficie ?",
+      "answers": ["Chine", "États-Unis", "Canada", "Russie"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Quelle est la capitale de l'Espagne ?",
+      "answers": ["Madrid", "Barcelone", "Valence", "Séville"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quelle est la langue officielle du Brésil ?",
+      "answers": ["Espagnol", "Anglais", "Portugais", "Français"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Quel est le plus grand océan de la Terre ?",
+      "answers": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Quelle est la monnaie du Japon ?",
+      "answers": ["Yuan", "Won", "Yen", "Ringgit"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Qui a écrit le roman 'Les Misérables' ?",
+      "answers": ["Victor Hugo", "Émile Zola", "Marcel Proust", "Albert Camus"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
+      "answers": ["Argon", "Or", "Aluminium", "Uranium"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel est le plus grand désert du monde ?",
+      "answers": ["Sahara", "Karakum", "Gobi", "Antarctique"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Qui a peint la fresque 'La Cène' ?",
+      "answers": ["Michel-Ange", "Raphaël", "Leonardo da Vinci", "Caravage"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "answers": ["1965", "1969", "1972", "1980"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Quel est le plus long fleuve du monde ?",
+      "answers": ["Nil", "Amazone", "Yangzi", "Mississippi"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est le pays d'origine du fromage 'Brie' ?",
+      "answers": ["France", "Italie", "Suisse", "Belgique"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Dans quelle ville se trouve la Tour Eiffel ?",
+      "answers": ["Londres", "Rome", "Paris", "Berlin"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Quel est l'auteur de 'L'Alchimiste' ?",
+      "answers": ["Paulo Coelho", "Gabriel García Márquez", "Jorge Luis Borges", "Mario Vargas Llosa"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel est le plus grand lac d'eau douce du monde par surface ?",
+      "answers": ["Lac Victoria", "Lac Supérieur", "Lac Baïkal", "Lac Michigan"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Qui a inventé le téléphone ?",
+      "answers": ["Nikola Tesla", "Alexander Graham Bell", "Thomas Edison", "Marconi"],
+      "correctAnswer": 1
+    }
+  ]
+}
+  
