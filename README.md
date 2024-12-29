@@ -42,12 +42,10 @@ Pour vous donner une idée du rendu, j'ai inclus des captures d'écran du projet
 
 ## 📸 Captures d'écran
 
-Voici un aperçu visuel de l'application :  
+Voici <a href="https://github.com/AbderemaneAttoumaniDEV/Interactive-Quiz/issues/1" target="_blank">un aperçu visuel</a> de l'application :  
 1. Page d'accueil avec la sélection des catégories.  
 2. Affichage des questions et des réponses possibles.  
 3. Résultats détaillés avec le score final.
-
-*Les captures sont disponibles dans le dossier `screenshots` du projet.*
 
 ## 📝 Instructions pour exécuter le projet en local
 
