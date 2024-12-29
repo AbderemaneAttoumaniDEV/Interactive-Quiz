@@ -1,4 +1,4 @@
-# Quiz Interactif - Testez vos connaissances !
+# Quiz Interactif
 
 Bienvenue sur le projet **Quiz Interactif**, un jeu en ligne ludique et éducatif qui permet de tester vos connaissances sur divers sujets. Ce quiz offre une expérience utilisateur fluide et moderne, avec une interface responsive et des résultats détaillés à la fin de chaque session.
 
