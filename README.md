@@ -73,5 +73,5 @@ Attention : certaines fonctionnalités ne fonctionneront pas en raison de l'abse
 ## 📞 Contact
 Pour toute suggestion ou question sur ce projet, n'hésitez pas à me contacter via :
 
-`Email` : votre-email@example.com
-`GitHub` : votre-utilisateur
+# Email : votre-email@example.com
+# GitHub : votre-utilisateur
