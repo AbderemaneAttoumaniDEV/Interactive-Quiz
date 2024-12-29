@@ -72,6 +72,5 @@ Attention : certaines fonctionnalités ne fonctionneront pas en raison de l'abse
 
 ## 📞 Contact
 Pour toute suggestion ou question sur ce projet, n'hésitez pas à me contacter via :
-
-# Email : votre-email@example.com
-# GitHub : votre-utilisateur
+- Email : <a href="mailto:attoumani.abderemane@gmail.com" target="_blank">attoumani.abderemane@gmail.com</a>
+- Github : <a href="https://github.com/AbderemaneAttoumaniDEV" target="_blank">Abdérémane ATTOUMANI</a>
